@@ -1,0 +1,23 @@
+[33mcommit c7492c3c1a43ca04fe2420b835877279f65a16e8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: vasu101 <nishantshekhawat1@gmail.com>
+Date:   Sun Aug 6 23:30:59 2023 +0530
+
+    Add the whole recipe and pictures describing recipe
+
+[33mcommit fde750fba909c41db13b2e3049df4de93aad5785[m
+Author: vasu101 <nishantshekhawat1@gmail.com>
+Date:   Sun Aug 6 20:36:17 2023 +0530
+
+    Add the available recipes page to main page
+
+[33mcommit 52b0dad10bed593f740e531053d86c696afec17e[m
+Author: vasu101 <nishantshekhawat1@gmail.com>
+Date:   Sun Aug 6 20:16:48 2023 +0530
+
+    build the HTML boilerplate.
+
+[33mcommit c912625f4477af58c6d52f032c92b3a885d02cfd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nishant Singh <72272867+vasu101@users.noreply.github.com>
+Date:   Sun Aug 6 20:02:20 2023 +0530
+
+    Initial commit
